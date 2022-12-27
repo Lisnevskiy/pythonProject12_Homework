@@ -1,0 +1,115 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 20:58:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 20:58:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: победа
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 20:58:43] "GET /search?s=победа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 20:58:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 20:58:43] "[36mGET /uploads/Argentina_Ch_M_2022_22fce2aa16.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:05:44] "[33mGET /skill/python HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:05:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:05:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:05:56] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:05:56] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Загружено не изображение!
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:06:07] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Александр\\PycharmProjects\\pythonProject4\\lesson12_project_source_v3\\main\\utils.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:39] "[33mGET /search/mjjhgf HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:44] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:52] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:39:54] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: ага
+INFO:root:Ошибка: Error loading data from JSON
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:40:09] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:root:Поиск: ага
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:40:58] "GET /search?s=ага HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:40:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:root:Поиск: победа
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:41:08] "GET /search?s=победа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:41:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:41:08] "[36mGET /uploads/Argentina_Ch_M_2022_22fce2aa16.jpeg HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:06] "GET /static/style.css HTTP/1.1" 200 -
+INFO:root:Поиск: победа
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:10] "GET /search?s=победа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:10] "GET /uploads/Argentina_Ch_M_2022_22fce2aa16.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:12] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:14] "POST /post HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:54:15] "GET /post HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:root:Поиск: победа
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:58:11] "GET /search?s=победа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:58:11] "GET /static/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 21:58:11] "GET /uploads/Argentina_Ch_M_2022_22fce2aa16.jpeg HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 822-724-650
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 22:16:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 22:16:32] "GET /static/style.css HTTP/1.1" 200 -
+INFO:root:Поиск: победа
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 22:16:35] "GET /search?s=победа HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 22:16:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [27/Dec/2022 22:16:35] "GET /uploads/Argentina_Ch_M_2022_22fce2aa16.jpeg HTTP/1.1" 200 -
